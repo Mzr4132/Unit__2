@@ -3,4 +3,4 @@ Project runs tic tac toe for android. Player 1 is cross and Player 2 is circle, 
 Once a player gets declared winner the game buttons will be disabled and the only option is to reset the game. 
 Screen rotation and such works through restoring instance. The board states are called through enums. The class 'game' is mostly responsible for the board and its states. 
 
-See the attached doc.png in the repository for an overview. 
+See the attached doc map in the repository for an overview of what it looks like.
